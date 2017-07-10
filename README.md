@@ -14,7 +14,7 @@ CtrlPtoSurvive fonctionne comme un instrument d’évaluation et d’accès. À 
 
 
 ### Liens vers les documentations détaillées :
-Site OLA: http://ola4.outilslibresalternatifs.org/#00-ola
+Documentation du workshop sur le site OLA: http://ola4.outilslibresalternatifs.org/#00-ola
 
 htm2print chez OSP:  
 * https://github.com/osp/osp.tools.html2print
