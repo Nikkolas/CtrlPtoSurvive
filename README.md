@@ -1,6 +1,8 @@
 # CtrlPtoSurvive
 Projet html2print réalisé durant le workshop OLA #4
 
+[logo]: http://ola4.outilslibresalternatifs.org/images/nicolas-00.jpg
+
 Inspiré du "Whole Earth Catalog" de Steward Brand, cette page Web est un catalogue d'outils de survie qu'il est possible d'imprimer au format A3 à l'aide du bouton dans la page.
 CtrlPtoSurvive fonctionne comme un instrument d’évaluation et d’accès. À l’aide de ce catalogue, l’utilisateur saura mieux évaluer ce qu’il est nécessaire d’acquérir en cas de fin du monde imminente.
 
