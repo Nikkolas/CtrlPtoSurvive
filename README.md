@@ -6,8 +6,8 @@ CtrlPtoSurvive fonctionne comme un instrument d’évaluation et d’accès. À 
 
 ##Objectifs :
 
-⋅⋅* Imprimer un format différent graphiquement de la page Web (on change la composition).
-⋅⋅* Gérer une mise en page pour le Web et une mise en page print (format A3).
-⋅⋅* Visualiser dans le navigateur la mise en page print (emulate css media).
+* Imprimer un format différent graphiquement de la page Web (on change la composition).
+* Gérer une mise en page pour le Web et une mise en page print (format A3).
+* Visualiser dans le navigateur la mise en page print (emulate css media).
 
 
