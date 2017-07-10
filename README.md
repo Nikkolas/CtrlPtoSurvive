@@ -13,3 +13,6 @@ CtrlPtoSurvive fonctionne comme un instrument d’évaluation et d’accès. À 
 * Visualiser dans le navigateur la mise en page print (emulate css media).
 
 
+### Liens vers les documentations détaillées :
+* [Site OLA] (http://ola4.outilslibresalternatifs.org/#00-ola)
+* [htm2print chez OSP] (https://github.com/osp/osp.tools.html2print)
