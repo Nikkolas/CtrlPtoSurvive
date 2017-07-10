@@ -1,5 +1,5 @@
 # CtrlPtoSurvive
-Projet html2print réalisé durant le workshop OLA #4
+Projet html2print réalisé durant le workshop organisé par OLA #4 (Outils Libres Alternatifs) et OSP (Open SOurce Publishing) les 24, 25 et 26 juin 2017.
 
 ![rendu du workshop](http://ola4.outilslibresalternatifs.org/images/nicolas-01.png)
 
